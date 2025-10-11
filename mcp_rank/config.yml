@@ -1,0 +1,16 @@
+window_days: 90
+top_n: 50
+# 关键字/主题将合并检索并去重
+queries:
+  - "topic:model-context-protocol"
+  - "topic:mcp"
+  - "\"Model Context Protocol\" in:name,description,readme"
+  - "\"MCP server\" in:readme"
+  - "\"MCP client\" in:readme"
+weights:
+  score_total_stars: 10.0   # log10(total_stars+1) * 10
+  score_growth_90d: 0.7     # recent stars weight per star
+  score_recency: 0.2        # (100 - days_since_push) * 0.2
+  score_forks: 0.05         # forks * 0.05
+min_stars: 5
+
