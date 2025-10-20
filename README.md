@@ -1,6 +1,6 @@
 MCP 工具项目排行（近三个月）
 
-最近更新时间：2025-10-19 03:57:47 UTC
+最近更新时间：2025-10-20 04:00:16 UTC
 检索窗口：90 天，Top 50
 
 说明
@@ -10,108 +10,108 @@ MCP 工具项目排行（近三个月）
 ## 近三个月飙升榜（按新增星排序）
 | # | 项目 | 近90天新增 | 总星标 | 最近活跃天数 | 备注 |
 |---:|:-----|-----------:|-------:|------------:|:-----|
-| 1 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 1000 | 11486 | 0 |  |
-| 2 | [jd-opensource/joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 1000 | 11025 | 22 |  |
-| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 1000 | 6502 | 2 |  |
-| 4 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 1000 | 6075 | 0 |  |
-| 5 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 1000 | 4356 | 0 |  |
-| 6 | [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | 1000 | 2631 | 25 |  |
-| 7 | [steveyegge/beads](https://github.com/steveyegge/beads) | 1000 | 1691 | 0 |  |
-| 8 | [crbnos/carbon](https://github.com/crbnos/carbon) | 1000 | 1572 | 0 |  |
-| 9 | [hyprmcp/jetski](https://github.com/hyprmcp/jetski) | 172 | 172 | 0 |  |
-| 10 | [grafbase/nexus](https://github.com/grafbase/nexus) | 99 | 411 | 2 |  |
-| 11 | [Agent-on-the-Fly/Memento](https://github.com/Agent-on-the-Fly/Memento) | 96 | 1632 | 13 |  |
-| 12 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 95 | 3907 | 29 |  |
-| 13 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 76 | 7659 | 7 |  |
-| 14 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 75 | 14044 | 0 |  |
-| 15 | [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) | 40 | 551 | 15 |  |
-| 16 | [burugo/one-mcp](https://github.com/burugo/one-mcp) | 38 | 161 | 9 |  |
-| 17 | [dryeab/mcp-telegram](https://github.com/dryeab/mcp-telegram) | 28 | 199 | 125 | 收集 |
-| 18 | [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) | 7 | 309 | 0 |  |
-| 19 | [PV-Bhat/vibe-check-mcp-server](https://github.com/PV-Bhat/vibe-check-mcp-server) | 1 | 265 | 1 |  |
-| 20 | [ollama/ollama](https://github.com/ollama/ollama) | 0 | 154334 | 1 |  |
-| 21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 0 | 149968 | 0 |  |
-| 22 | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 0 | 135489 | 4 |  |
-| 23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 0 | 133048 | 0 |  |
-| 24 | [langgenius/dify](https://github.com/langgenius/dify) | 0 | 116754 | 0 |  |
-| 25 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 0 | 113867 | 0 |  |
-| 26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 0 | 112791 | 1 |  |
-| 27 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 0 | 100524 | 0 |  |
-| 28 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 0 | 89928 | 1 |  |
-| 29 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 0 | 86154 | 19 |  |
-| 30 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 0 | 81810 | 40 |  |
-| 31 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 0 | 79688 | 0 |  |
-| 32 | [netdata/netdata](https://github.com/netdata/netdata) | 0 | 76420 | 0 |  |
-| 33 | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | 0 | 73314 | 17 |  |
-| 34 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 0 | 73111 | 4 |  |
-| 35 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 0 | 70722 | 0 |  |
-| 36 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 0 | 70229 | 12 |  |
-| 37 | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 0 | 66973 | 0 |  |
-| 38 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | 0 | 66750 | 2 |  |
-| 39 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 0 | 66180 | 0 |  |
-| 40 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 0 | 65456 | 136 | 收集 |
-| 41 | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | 0 | 64305 | 0 |  |
-| 42 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 0 | 58478 | 0 |  |
-| 43 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 0 | 53733 | 1 |  |
-| 44 | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 0 | 53235 | 3 |  |
-| 45 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 0 | 53129 | 0 |  |
-| 46 | [cline/cline](https://github.com/cline/cline) | 0 | 51422 | 0 |  |
-| 47 | [microsoft/autogen](https://github.com/microsoft/autogen) | 0 | 50870 | 10 |  |
-| 48 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 0 | 50107 | 2 |  |
-| 49 | [openai/codex](https://github.com/openai/codex) | 0 | 48115 | 0 |  |
-| 50 | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | 0 | 45362 | 0 |  |
+| 1 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 1000 | 11594 | 1 |  |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 1000 | 7545 | 1 |  |
+| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 1000 | 6512 | 0 |  |
+| 4 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 1000 | 6103 | 1 |  |
+| 5 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 1000 | 4375 | 0 |  |
+| 6 | [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | 1000 | 2644 | 26 |  |
+| 7 | [steveyegge/beads](https://github.com/steveyegge/beads) | 1000 | 1766 | 0 |  |
+| 8 | [crbnos/carbon](https://github.com/crbnos/carbon) | 1000 | 1573 | 1 |  |
+| 9 | [hyprmcp/jetski](https://github.com/hyprmcp/jetski) | 173 | 173 | 1 |  |
+| 10 | [grafbase/nexus](https://github.com/grafbase/nexus) | 99 | 412 | 3 |  |
+| 11 | [Agent-on-the-Fly/Memento](https://github.com/Agent-on-the-Fly/Memento) | 96 | 1635 | 14 |  |
+| 12 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 95 | 3921 | 30 |  |
+| 13 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 75 | 14078 | 0 |  |
+| 14 | [dryeab/mcp-telegram](https://github.com/dryeab/mcp-telegram) | 28 | 202 | 126 | 收集 |
+| 15 | [burugo/one-mcp](https://github.com/burugo/one-mcp) | 26 | 161 | 10 |  |
+| 16 | [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) | 11 | 554 | 16 |  |
+| 17 | [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) | 5 | 309 | 1 |  |
+| 18 | [ollama/ollama](https://github.com/ollama/ollama) | 0 | 154401 | 2 |  |
+| 19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 0 | 150236 | 0 |  |
+| 20 | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 0 | 135516 | 5 |  |
+| 21 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 0 | 133186 | 0 |  |
+| 22 | [langgenius/dify](https://github.com/langgenius/dify) | 0 | 116812 | 0 |  |
+| 23 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 0 | 113890 | 1 |  |
+| 24 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 0 | 112859 | 0 |  |
+| 25 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 0 | 100584 | 0 |  |
+| 26 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 0 | 90001 | 2 |  |
+| 27 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 0 | 86160 | 20 |  |
+| 28 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 0 | 81847 | 41 |  |
+| 29 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 0 | 79788 | 0 |  |
+| 30 | [netdata/netdata](https://github.com/netdata/netdata) | 0 | 76429 | 0 |  |
+| 31 | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | 0 | 73318 | 18 |  |
+| 32 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 0 | 73189 | 5 |  |
+| 33 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 0 | 70794 | 0 |  |
+| 34 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 0 | 70254 | 13 |  |
+| 35 | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 0 | 66996 | 0 |  |
+| 36 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | 0 | 66761 | 3 |  |
+| 37 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 0 | 66223 | 0 |  |
+| 38 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 0 | 65548 | 137 | 收集 |
+| 39 | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | 0 | 64328 | 0 |  |
+| 40 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 0 | 59080 | 0 |  |
+| 41 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 0 | 53754 | 2 |  |
+| 42 | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 0 | 53248 | 0 |  |
+| 43 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 0 | 53141 | 0 |  |
+| 44 | [cline/cline](https://github.com/cline/cline) | 0 | 51436 | 0 |  |
+| 45 | [microsoft/autogen](https://github.com/microsoft/autogen) | 0 | 50897 | 11 |  |
+| 46 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 0 | 50139 | 3 |  |
+| 47 | [openai/codex](https://github.com/openai/codex) | 0 | 48224 | 0 |  |
+| 48 | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | 0 | 45372 | 1 |  |
+| 49 | [prisma/prisma](https://github.com/prisma/prisma) | 0 | 44084 | 1 |  |
+| 50 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 0 | 42924 | 3 |  |
 
 
 ## 总分排行榜
 | # | 项目 | 总分 | 近90天新增 | 总星标 | Forks | 最近活跃天数 | 备注 |
 |---:|:-----|----:|-----------:|-------:|------:|------------:|:-----|
-| 1 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 3111.75 | 0 | 86154 | 60924 | 19 |  |
-| 2 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 2728.87 | 0 | 100524 | 53177 | 0 |  |
-| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 2455.31 | 0 | 149968 | 47671 | 0 |  |
-| 4 | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 971.42 | 0 | 135489 | 18018 | 4 |  |
-| 5 | [langgenius/dify](https://github.com/langgenius/dify) | 971.27 | 0 | 116754 | 18012 | 0 |  |
-| 6 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 852.47 | 0 | 112791 | 15643 | 1 |  |
-| 7 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 822.67 | 0 | 70229 | 15132 | 12 |  |
-| 8 | [jd-opensource/joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) | 815.87 | 1000 | 11025 | 1197 | 22 |  |
-| 9 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 800.94 | 1000 | 6075 | 862 | 0 |  |
-| 10 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 794.78 | 1000 | 6502 | 741 | 2 |  |
-| 11 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 794.15 | 1000 | 11486 | 671 | 0 |  |
-| 12 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 788.64 | 1000 | 4356 | 645 | 0 |  |
-| 13 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 774.62 | 0 | 42884 | 14174 | 2 |  |
-| 14 | [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | 760.75 | 1000 | 2631 | 231 | 25 |  |
-| 15 | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 760.26 | 0 | 66973 | 13840 | 0 |  |
-| 16 | [crbnos/carbon](https://github.com/crbnos/carbon) | 758.57 | 1000 | 1572 | 132 | 0 |  |
-| 17 | [steveyegge/beads](https://github.com/steveyegge/beads) | 756.63 | 1000 | 1691 | 87 | 0 |  |
-| 18 | [ollama/ollama](https://github.com/ollama/ollama) | 742.23 | 0 | 154334 | 13411 | 1 |  |
-| 19 | [alibaba/nacos](https://github.com/alibaba/nacos) | 721.72 | 0 | 32154 | 13153 | 5 |  |
-| 20 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 653.26 | 0 | 113867 | 11654 | 0 |  |
-| 21 | [spmallick/learnopencv](https://github.com/spmallick/learnopencv) | 649.45 | 0 | 22410 | 11735 | 4 |  |
-| 22 | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | 539.10 | 0 | 73314 | 9477 | 17 |  |
-| 23 | [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 524.16 | 0 | 39418 | 9452 | 72 |  |
-| 24 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 514.17 | 0 | 58478 | 8930 | 0 |  |
-| 25 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 506.31 | 0 | 79688 | 8746 | 0 |  |
-| 26 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 489.90 | 0 | 70722 | 8428 | 0 |  |
-| 27 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 461.89 | 0 | 133048 | 7813 | 0 |  |
-| 28 | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | 457.58 | 0 | 64305 | 7790 | 0 |  |
-| 29 | [microsoft/autogen](https://github.com/microsoft/autogen) | 453.36 | 0 | 50870 | 7766 | 10 |  |
-| 30 | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | 444.12 | 0 | 45362 | 7551 | 0 |  |
-| 31 | [cline/cline](https://github.com/cline/cline) | 438.96 | 0 | 51422 | 7437 | 0 |  |
-| 32 | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | 420.90 | 0 | 40765 | 7096 | 0 |  |
-| 33 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 417.61 | 0 | 66180 | 6988 | 0 |  |
-| 34 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 414.61 | 0 | 65456 | 7329 | 136 | 收集 |
-| 35 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 410.54 | 0 | 89928 | 6824 | 1 |  |
-| 36 | [labring/FastGPT](https://github.com/labring/FastGPT) | 399.06 | 0 | 26044 | 6698 | 0 |  |
-| 37 | [netdata/netdata](https://github.com/netdata/netdata) | 378.88 | 0 | 76420 | 6201 | 0 |  |
-| 38 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 372.49 | 0 | 73111 | 6093 | 4 |  |
-| 39 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 362.79 | 0 | 30863 | 5958 | 0 |  |
-| 40 | [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 359.07 | 0 | 36481 | 5869 | 0 |  |
-| 41 | [openai/codex](https://github.com/openai/codex) | 357.52 | 0 | 48115 | 5814 | 0 |  |
-| 42 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 329.10 | 0 | 50107 | 5250 | 2 |  |
-| 43 | [Kong/kong](https://github.com/Kong/kong) | 315.28 | 0 | 41980 | 5001 | 5 |  |
-| 44 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 304.90 | 0 | 53129 | 4753 | 0 |  |
-| 45 | [agno-agi/agno](https://github.com/agno-agi/agno) | 290.22 | 0 | 34455 | 4497 | 0 |  |
-| 46 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 289.43 | 0 | 81810 | 4566 | 40 |  |
-| 47 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 281.97 | 0 | 25801 | 4361 | 1 |  |
-| 48 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 279.03 | 0 | 26481 | 4300 | 1 |  |
-| 49 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | 269.08 | 0 | 24997 | 4118 | 4 |  |
-| 50 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 266.97 | 0 | 20295 | 4086 | 2 |  |
+| 1 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 3111.30 | 0 | 86160 | 60919 | 20 |  |
+| 2 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 2730.68 | 0 | 100584 | 53213 | 0 |  |
+| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 2460.27 | 0 | 150236 | 47770 | 0 |  |
+| 4 | [langgenius/dify](https://github.com/langgenius/dify) | 971.87 | 0 | 116812 | 18024 | 0 |  |
+| 5 | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 971.67 | 0 | 135516 | 18027 | 5 |  |
+| 6 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 853.13 | 0 | 112859 | 15652 | 0 |  |
+| 7 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 822.52 | 0 | 70254 | 15133 | 13 |  |
+| 8 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 801.01 | 1000 | 6103 | 867 | 1 |  |
+| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 795.24 | 1000 | 6512 | 742 | 0 |  |
+| 10 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 794.39 | 1000 | 11594 | 679 | 1 |  |
+| 11 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 788.71 | 1000 | 4375 | 646 | 0 |  |
+| 12 | [anthropics/skills](https://github.com/anthropics/skills) | 785.58 | 1000 | 7545 | 540 | 1 |  |
+| 13 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 775.58 | 0 | 42924 | 14197 | 3 |  |
+| 14 | [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | 760.62 | 1000 | 2644 | 232 | 26 |  |
+| 15 | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 760.61 | 0 | 66996 | 13847 | 0 |  |
+| 16 | [crbnos/carbon](https://github.com/crbnos/carbon) | 758.42 | 1000 | 1573 | 133 | 1 |  |
+| 17 | [steveyegge/beads](https://github.com/steveyegge/beads) | 757.02 | 1000 | 1766 | 91 | 0 |  |
+| 18 | [ollama/ollama](https://github.com/ollama/ollama) | 742.39 | 0 | 154401 | 13418 | 2 |  |
+| 19 | [alibaba/nacos](https://github.com/alibaba/nacos) | 721.52 | 0 | 32158 | 13153 | 6 |  |
+| 20 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 653.11 | 0 | 113890 | 11655 | 1 |  |
+| 21 | [spmallick/learnopencv](https://github.com/spmallick/learnopencv) | 649.26 | 0 | 22414 | 11735 | 5 |  |
+| 22 | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | 538.95 | 0 | 73318 | 9478 | 18 |  |
+| 23 | [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 523.91 | 0 | 39425 | 9451 | 73 |  |
+| 24 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 516.46 | 0 | 59080 | 8975 | 0 |  |
+| 25 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 507.07 | 0 | 79788 | 8761 | 0 |  |
+| 26 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 490.45 | 0 | 70794 | 8439 | 0 |  |
+| 27 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 462.04 | 0 | 133186 | 7816 | 0 |  |
+| 28 | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | 457.68 | 0 | 64328 | 7792 | 0 |  |
+| 29 | [microsoft/autogen](https://github.com/microsoft/autogen) | 453.37 | 0 | 50897 | 7770 | 11 |  |
+| 30 | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) | 443.87 | 0 | 45372 | 7550 | 1 |  |
+| 31 | [cline/cline](https://github.com/cline/cline) | 439.16 | 0 | 51436 | 7441 | 0 |  |
+| 32 | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | 420.95 | 0 | 40767 | 7097 | 0 |  |
+| 33 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 417.86 | 0 | 66223 | 6993 | 0 |  |
+| 34 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 415.67 | 0 | 65548 | 7350 | 137 | 收集 |
+| 35 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 410.49 | 0 | 90001 | 6827 | 2 |  |
+| 36 | [labring/FastGPT](https://github.com/labring/FastGPT) | 399.21 | 0 | 26049 | 6701 | 0 |  |
+| 37 | [netdata/netdata](https://github.com/netdata/netdata) | 378.98 | 0 | 76429 | 6203 | 0 |  |
+| 38 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 372.49 | 0 | 73189 | 6097 | 5 |  |
+| 39 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 363.05 | 0 | 30887 | 5963 | 0 |  |
+| 40 | [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 359.07 | 0 | 36488 | 5873 | 1 |  |
+| 41 | [openai/codex](https://github.com/openai/codex) | 358.73 | 0 | 48224 | 5838 | 0 |  |
+| 42 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 329.05 | 0 | 50139 | 5253 | 3 |  |
+| 43 | [Kong/kong](https://github.com/Kong/kong) | 315.13 | 0 | 41987 | 5002 | 6 |  |
+| 44 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 305.00 | 0 | 53141 | 4755 | 0 |  |
+| 45 | [agno-agi/agno](https://github.com/agno-agi/agno) | 290.62 | 0 | 34467 | 4505 | 0 |  |
+| 46 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 289.43 | 0 | 81847 | 4570 | 41 |  |
+| 47 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 281.82 | 0 | 25803 | 4362 | 2 |  |
+| 48 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 279.28 | 0 | 26486 | 4301 | 0 |  |
+| 49 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | 268.88 | 0 | 24998 | 4118 | 5 |  |
+| 50 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 267.18 | 0 | 20338 | 4094 | 3 |  |
