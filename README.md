@@ -1,6 +1,6 @@
 MCP 工具项目排行（近三个月）
 
-最近更新时间：2026-04-08 04:47:23 UTC
+最近更新时间：2026-04-09 04:45:32 UTC
 检索窗口：90 天，Top 50
 
 说明
@@ -10,108 +10,108 @@ MCP 工具项目排行（近三个月）
 ## 近三个月飙升榜（按新增星排序）
 | # | 项目 | 近90天新增 | 总星标 | 最近活跃天数 | 备注 |
 |---:|:-----|-----------:|-------:|------------:|:-----|
-| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 1000 | 145166 | 0 |  |
-| 2 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 1000 | 44892 | 3 |  |
-| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 1000 | 38432 | 0 |  |
-| 4 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 1000 | 31396 | 0 |  |
-| 5 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 1000 | 29735 | 0 |  |
-| 6 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 1000 | 27821 | 0 |  |
-| 7 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 1000 | 25835 | 0 |  |
-| 8 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 1000 | 19546 | 8 |  |
-| 9 | [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) | 1000 | 19132 | 0 |  |
-| 10 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 1000 | 16434 | 5 |  |
-| 11 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 1000 | 16333 | 5 |  |
-| 12 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 1000 | 14757 | 0 |  |
-| 13 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 1000 | 11527 | 0 |  |
-| 14 | [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | 1000 | 11485 | 6 |  |
-| 15 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 1000 | 10100 | 0 |  |
-| 16 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 1000 | 6765 | 0 |  |
-| 17 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 1000 | 6045 | 1 |  |
-| 18 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 1000 | 5777 | 0 |  |
-| 19 | [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) | 1000 | 4869 | 0 |  |
-| 20 | [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) | 1000 | 4367 | 1 |  |
-| 21 | [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) | 1000 | 4038 | 1 |  |
-| 22 | [dataelement/Clawith](https://github.com/dataelement/Clawith) | 1000 | 2931 | 0 |  |
-| 23 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 1000 | 1296 | 1 |  |
-| 24 | [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) | 1000 | 1265 | 0 |  |
-| 25 | [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) | 769 | 769 | 53 |  |
-| 26 | [KeyID-AI/agent-kit](https://github.com/KeyID-AI/agent-kit) | 611 | 611 | 26 |  |
-| 27 | [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) | 559 | 559 | 6 |  |
-| 28 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | 460 | 460 | 0 |  |
-| 29 | [Cranot/roam-code](https://github.com/Cranot/roam-code) | 448 | 449 | 39 |  |
-| 30 | [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 356 | 356 | 0 |  |
-| 31 | [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) | 321 | 321 | 4 |  |
-| 32 | [erikdarlingdata/PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor) | 302 | 302 | 0 |  |
-| 33 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 99 | 33074 | 0 |  |
-| 34 | [Natfii/UnrealClaude](https://github.com/Natfii/UnrealClaude) | 99 | 462 | 1 |  |
-| 35 | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 77 | 349 | 0 |  |
-| 36 | [Microck/opencode-studio](https://github.com/Microck/opencode-studio) | 49 | 305 | 0 |  |
-| 37 | [apify/mcp-cli](https://github.com/apify/mcp-cli) | 21 | 455 | 0 |  |
-| 38 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 11 | 32863 | 1 |  |
-| 39 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 0 | 182911 | 0 |  |
-| 40 | [f/prompts.chat](https://github.com/f/prompts.chat) | 0 | 157874 | 0 |  |
-| 41 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 0 | 154723 | 1 |  |
-| 42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 0 | 146655 | 0 |  |
-| 43 | [langgenius/dify](https://github.com/langgenius/dify) | 0 | 136655 | 0 |  |
-| 44 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 0 | 130573 | 0 |  |
-| 45 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 0 | 120612 | 1 |  |
-| 46 | [anthropics/skills](https://github.com/anthropics/skills) | 0 | 112530 | 13 |  |
-| 47 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 0 | 105617 | 0 |  |
-| 48 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 0 | 101676 | 0 |  |
-| 49 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 0 | 100560 | 0 |  |
-| 50 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 0 | 94042 | 0 |  |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 1000 | 147251 | 0 |  |
+| 2 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 1000 | 45100 | 4 |  |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 1000 | 38612 | 0 |  |
+| 4 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 1000 | 31672 | 0 |  |
+| 5 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 1000 | 29814 | 0 |  |
+| 6 | [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) | 1000 | 28766 | 0 |  |
+| 7 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 1000 | 27897 | 0 |  |
+| 8 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 1000 | 16527 | 6 |  |
+| 9 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 1000 | 16465 | 0 |  |
+| 10 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 1000 | 14874 | 0 |  |
+| 11 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 1000 | 11560 | 0 |  |
+| 12 | [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | 1000 | 11518 | 7 |  |
+| 13 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 1000 | 11122 | 0 |  |
+| 14 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 1000 | 6865 | 0 |  |
+| 15 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 1000 | 6860 | 0 |  |
+| 16 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 1000 | 5879 | 0 |  |
+| 17 | [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) | 1000 | 5060 | 0 |  |
+| 18 | [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) | 1000 | 4375 | 0 |  |
+| 19 | [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) | 1000 | 4060 | 0 |  |
+| 20 | [dataelement/Clawith](https://github.com/dataelement/Clawith) | 1000 | 2981 | 0 |  |
+| 21 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 1000 | 1333 | 2 |  |
+| 22 | [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) | 1000 | 1294 | 0 |  |
+| 23 | [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) | 769 | 769 | 54 |  |
+| 24 | [KeyID-AI/agent-kit](https://github.com/KeyID-AI/agent-kit) | 609 | 609 | 27 |  |
+| 25 | [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) | 560 | 560 | 7 |  |
+| 26 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | 460 | 460 | 0 |  |
+| 27 | [Cranot/roam-code](https://github.com/Cranot/roam-code) | 448 | 449 | 40 |  |
+| 28 | [AVIDS2/memorix](https://github.com/AVIDS2/memorix) | 358 | 358 | 1 |  |
+| 29 | [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) | 324 | 324 | 5 |  |
+| 30 | [erikdarlingdata/PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor) | 302 | 302 | 0 |  |
+| 31 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 99 | 39001 | 0 |  |
+| 32 | [Natfii/UnrealClaude](https://github.com/Natfii/UnrealClaude) | 99 | 469 | 2 |  |
+| 33 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 82 | 26443 | 0 |  |
+| 34 | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 77 | 358 | 1 |  |
+| 35 | [Microck/opencode-studio](https://github.com/Microck/opencode-studio) | 45 | 305 | 1 |  |
+| 36 | [apify/mcp-cli](https://github.com/apify/mcp-cli) | 19 | 455 | 0 |  |
+| 37 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 10 | 33123 | 0 |  |
+| 38 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 0 | 183097 | 0 |  |
+| 39 | [f/prompts.chat](https://github.com/f/prompts.chat) | 0 | 158399 | 0 |  |
+| 40 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 0 | 154775 | 0 |  |
+| 41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 0 | 146712 | 0 |  |
+| 42 | [langgenius/dify](https://github.com/langgenius/dify) | 0 | 136827 | 0 |  |
+| 43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 0 | 130770 | 0 |  |
+| 44 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 0 | 120640 | 0 |  |
+| 45 | [anthropics/skills](https://github.com/anthropics/skills) | 0 | 113346 | 0 |  |
+| 46 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 0 | 106130 | 0 |  |
+| 47 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 0 | 101750 | 0 |  |
+| 48 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 0 | 100653 | 0 |  |
+| 49 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 0 | 94355 | 9 |  |
+| 50 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 0 | 94048 | 0 |  |
 
 
 ## 总分排行榜
 | # | 项目 | 总分 | 近90天新增 | 总星标 | Forks | 最近活跃天数 | 备注 |
 |---:|:-----|----:|-----------:|-------:|------:|------------:|:-----|
-| 1 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 3043.83 | 0 | 87642 | 59888 | 126 | 收集 |
-| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 2901.92 | 0 | 182911 | 56586 | 0 |  |
-| 3 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 2378.85 | 0 | 154723 | 46143 | 1 |  |
-| 4 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 1886.62 | 1000 | 145166 | 22300 | 0 |  |
-| 5 | [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | 1744.30 | 1000 | 11485 | 19698 | 6 |  |
-| 6 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 1215.09 | 0 | 51133 | 23000 | 10 |  |
-| 7 | [langgenius/dify](https://github.com/langgenius/dify) | 1138.61 | 0 | 136655 | 21345 | 0 |  |
-| 8 | [f/prompts.chat](https://github.com/f/prompts.chat) | 1105.08 | 0 | 157874 | 20662 | 0 |  |
-| 9 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 1100.60 | 1000 | 38432 | 6695 | 0 |  |
-| 10 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 1026.42 | 1000 | 31396 | 5229 | 0 |  |
-| 11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 996.26 | 0 | 130573 | 18502 | 0 |  |
-| 12 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 983.82 | 1000 | 44892 | 4358 | 3 |  |
-| 13 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 978.28 | 1000 | 29735 | 4271 | 0 |  |
-| 14 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 961.04 | 1000 | 27821 | 3932 | 0 |  |
-| 15 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 882.77 | 1000 | 25835 | 2373 | 0 |  |
-| 16 | [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) | 873.77 | 1000 | 19132 | 2219 | 0 |  |
-| 17 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 864.11 | 1000 | 16434 | 2059 | 5 |  |
-| 18 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 860.40 | 0 | 45758 | 15880 | 1 |  |
-| 19 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 859.64 | 1000 | 14757 | 1959 | 0 |  |
-| 20 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 840.26 | 1000 | 19546 | 1579 | 8 |  |
-| 21 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 833.88 | 0 | 72190 | 15398 | 23 |  |
-| 22 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 831.43 | 1000 | 16333 | 1406 | 5 |  |
-| 23 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 826.72 | 1000 | 11527 | 1322 | 0 |  |
-| 24 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 812.59 | 0 | 74885 | 14877 | 0 |  |
-| 25 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 802.29 | 1000 | 10100 | 845 | 0 |  |
-| 26 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 792.16 | 1000 | 6045 | 691 | 1 |  |
-| 27 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 783.37 | 1000 | 5777 | 515 | 0 |  |
-| 28 | [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) | 781.83 | 1000 | 4869 | 499 | 0 |  |
-| 29 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 781.25 | 1000 | 6765 | 459 | 0 |  |
-| 30 | [dataelement/Clawith](https://github.com/dataelement/Clawith) | 777.87 | 1000 | 2931 | 464 | 0 |  |
-| 31 | [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) | 773.06 | 1000 | 4038 | 344 | 1 |  |
-| 32 | [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) | 771.35 | 1000 | 4367 | 303 | 1 |  |
-| 33 | [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) | 761.72 | 1000 | 1265 | 214 | 0 |  |
-| 34 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 758.48 | 1000 | 1296 | 151 | 1 |  |
-| 35 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 749.54 | 0 | 65975 | 13627 | 0 |  |
-| 36 | [alibaba/nacos](https://github.com/alibaba/nacos) | 728.81 | 0 | 32809 | 13273 | 0 |  |
-| 37 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 717.97 | 0 | 100560 | 12959 | 0 |  |
-| 38 | [anthropics/skills](https://github.com/anthropics/skills) | 706.31 | 0 | 112530 | 12768 | 13 |  |
-| 39 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 698.26 | 0 | 120612 | 12553 | 1 |  |
-| 40 | [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | 665.09 | 0 | 65195 | 11995 | 14 |  |
-| 41 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 653.29 | 0 | 74791 | 11735 | 11 |  |
-| 42 | [spmallick/learnopencv](https://github.com/spmallick/learnopencv) | 649.44 | 0 | 22861 | 11717 | 0 |  |
-| 43 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 580.25 | 0 | 83190 | 10261 | 10 |  |
-| 44 | [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) | 579.71 | 769 | 769 | 63 | 53 |  |
-| 45 | [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 559.92 | 0 | 42839 | 9872 | 0 |  |
-| 46 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 540.43 | 0 | 94042 | 9414 | 0 |  |
-| 47 | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | 540.37 | 0 | 73612 | 9478 | 11 |  |
-| 48 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 509.12 | 0 | 77970 | 9048 | 61 |  |
-| 49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 507.81 | 0 | 146655 | 8723 | 0 |  |
-| 50 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 503.64 | 0 | 77381 | 8695 | 0 |  |
+| 1 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 3043.93 | 0 | 87656 | 59890 | 127 | 收集 |
+| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 2902.73 | 0 | 183097 | 56602 | 0 |  |
+| 3 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 2378.90 | 0 | 154775 | 46140 | 0 |  |
+| 4 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 1908.28 | 1000 | 147251 | 22732 | 0 |  |
+| 5 | [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | 1745.21 | 1000 | 11518 | 19720 | 7 |  |
+| 6 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 1216.05 | 0 | 51246 | 23023 | 11 |  |
+| 7 | [langgenius/dify](https://github.com/langgenius/dify) | 1140.61 | 0 | 136827 | 21385 | 0 |  |
+| 8 | [f/prompts.chat](https://github.com/f/prompts.chat) | 1108.95 | 0 | 158399 | 20739 | 0 |  |
+| 9 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 1102.97 | 1000 | 38612 | 6742 | 0 |  |
+| 10 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 1028.16 | 1000 | 31672 | 5263 | 0 |  |
+| 11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 997.52 | 0 | 130770 | 18527 | 0 |  |
+| 12 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 985.14 | 1000 | 45100 | 4388 | 4 |  |
+| 13 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 978.74 | 1000 | 29814 | 4280 | 0 |  |
+| 14 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 961.86 | 1000 | 27897 | 3948 | 0 |  |
+| 15 | [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) | 945.69 | 1000 | 28766 | 3622 | 0 |  |
+| 16 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 865.42 | 1000 | 16465 | 2065 | 0 |  |
+| 17 | [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) | 860.77 | 1000 | 14874 | 1981 | 0 |  |
+| 18 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 860.41 | 0 | 45778 | 15884 | 2 |  |
+| 19 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 833.79 | 0 | 72199 | 15400 | 24 |  |
+| 20 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 832.28 | 1000 | 16527 | 1426 | 6 |  |
+| 21 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 826.88 | 1000 | 11560 | 1325 | 0 |  |
+| 22 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 812.90 | 0 | 74933 | 14883 | 0 |  |
+| 23 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 808.01 | 1000 | 11122 | 951 | 0 |  |
+| 24 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 798.77 | 1000 | 6865 | 808 | 0 |  |
+| 25 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 784.39 | 1000 | 5879 | 534 | 0 |  |
+| 26 | [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) | 783.09 | 1000 | 5060 | 521 | 0 |  |
+| 27 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 781.71 | 1000 | 6860 | 467 | 0 |  |
+| 28 | [dataelement/Clawith](https://github.com/dataelement/Clawith) | 778.45 | 1000 | 2981 | 474 | 0 |  |
+| 29 | [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) | 773.49 | 1000 | 4060 | 348 | 0 |  |
+| 30 | [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) | 771.61 | 1000 | 4375 | 304 | 0 |  |
+| 31 | [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) | 762.27 | 1000 | 1294 | 223 | 0 |  |
+| 32 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 758.65 | 1000 | 1333 | 156 | 2 |  |
+| 33 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 749.14 | 0 | 65983 | 13623 | 1 |  |
+| 34 | [alibaba/nacos](https://github.com/alibaba/nacos) | 728.86 | 0 | 32814 | 13274 | 0 |  |
+| 35 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 719.23 | 0 | 100653 | 12984 | 0 |  |
+| 36 | [anthropics/skills](https://github.com/anthropics/skills) | 714.99 | 0 | 113346 | 12889 | 0 |  |
+| 37 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 698.81 | 0 | 120640 | 12560 | 0 |  |
+| 38 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 665.06 | 0 | 76083 | 11973 | 12 |  |
+| 39 | [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | 664.99 | 0 | 65206 | 11997 | 15 |  |
+| 40 | [spmallick/learnopencv](https://github.com/spmallick/learnopencv) | 649.24 | 0 | 22862 | 11717 | 1 |  |
+| 41 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 580.66 | 0 | 83277 | 10273 | 11 |  |
+| 42 | [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) | 579.51 | 769 | 769 | 63 | 54 |  |
+| 43 | [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 560.07 | 0 | 42879 | 9875 | 0 |  |
+| 44 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 540.43 | 0 | 94048 | 9414 | 0 |  |
+| 45 | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | 540.02 | 0 | 73609 | 9475 | 12 |  |
+| 46 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 512.86 | 0 | 84420 | 8884 | 3 |  |
+| 47 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 509.37 | 0 | 78009 | 9057 | 62 |  |
+| 48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 508.16 | 0 | 146712 | 8730 | 0 |  |
+| 49 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 504.54 | 0 | 77505 | 8713 | 0 |  |
+| 50 | [microsoft/autogen](https://github.com/microsoft/autogen) | 494.50 | 0 | 56840 | 8547 | 2 |  |
