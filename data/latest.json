@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31 06:37:02",
+  "generated_at": "2026-06-01 07:24:35",
   "window_days": 90,
   "top_n": 50,
   "data": {
@@ -8,199 +8,210 @@
         "full_name": "garrytan/gstack",
         "html_url": "https://github.com/garrytan/gstack",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stars": 104866,
-        "forks": 15642,
+        "stars": 105272,
+        "forks": 15693,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 1552.3063884403102
+        "score": 1554.8731699934697
       },
       {
         "full_name": "JuliusBrussee/caveman",
         "html_url": "https://github.com/JuliusBrussee/caveman",
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stars": 66720,
-        "forks": 3764,
+        "stars": 67051,
+        "forks": 3782,
         "growth_90d": 1000,
-        "days_since_push": 10,
+        "days_since_push": 11,
         "collected": false,
-        "score": 954.4426254679076
+        "score": 955.1641173634138
       },
       {
         "full_name": "safishamsi/graphify",
         "html_url": "https://github.com/safishamsi/graphify",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-        "stars": 56905,
-        "forks": 5955,
+        "stars": 57551,
+        "forks": 6010,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 1065.3015805953241
+        "score": 1068.1006042047443
       },
       {
         "full_name": "nexu-io/open-design",
         "html_url": "https://github.com/nexu-io/open-design",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-        "stars": 56061,
-        "forks": 6340,
+        "stars": 56661,
+        "forks": 6399,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 1084.4866858706448
+        "score": 1087.4829189975792
       },
       {
         "full_name": "MemPalace/mempalace",
         "html_url": "https://github.com/MemPalace/mempalace",
         "description": "The best-benchmarked open-source AI memory system. And it's free.",
-        "stars": 53102,
+        "stars": 53195,
         "forks": 7016,
         "growth_90d": 1000,
-        "days_since_push": 0,
+        "days_since_push": 1,
         "collected": false,
-        "score": 1118.0511905679978
+        "score": 1117.8587897734697
       },
       {
         "full_name": "rohitg00/ai-engineering-from-scratch",
         "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
-        "stars": 25288,
-        "forks": 4099,
+        "stars": 26204,
+        "forks": 4254,
         "growth_90d": 1000,
-        "days_since_push": 3,
+        "days_since_push": 4,
         "collected": false,
-        "score": 968.3793165642751
+        "score": 976.0838416403863
       },
       {
         "full_name": "heygen-com/hyperframes",
         "html_url": "https://github.com/heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
-        "stars": 22626,
-        "forks": 2107,
+        "stars": 22959,
+        "forks": 2133,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 868.8962697685295
+        "score": 870.2597188372594
       },
       {
         "full_name": "garrytan/gbrain",
         "html_url": "https://github.com/garrytan/gbrain",
         "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-        "stars": 19958,
-        "forks": 2832,
+        "stars": 20213,
+        "forks": 2872,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 904.6013877816571
+        "score": 906.6565226136477
       },
       {
         "full_name": "tirth8205/code-review-graph",
         "html_url": "https://github.com/tirth8205/code-review-graph",
         "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "stars": 17732,
-        "forks": 1904,
+        "stars": 17784,
+        "forks": 1914,
         "growth_90d": 1000,
-        "days_since_push": 5,
+        "days_since_push": 6,
         "collected": false,
-        "score": 856.6878221406855
+        "score": 857.000538695218
+      },
+      {
+        "full_name": "esengine/DeepSeek-Reasonix",
+        "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+        "stars": 15565,
+        "forks": 914,
+        "growth_90d": 1000,
+        "days_since_push": 0,
+        "collected": false,
+        "score": 807.6217702611276
       },
       {
         "full_name": "h4ckf0r0day/obscura",
         "html_url": "https://github.com/h4ckf0r0day/obscura",
         "description": "The headless browser for AI agents and web scraping",
-        "stars": 13910,
-        "forks": 905,
+        "stars": 14025,
+        "forks": 914,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 806.6835835061547
+        "score": 807.1693383456277
       },
       {
         "full_name": "HKUDS/OpenHarness",
         "html_url": "https://github.com/HKUDS/OpenHarness",
         "description": "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\"",
-        "stars": 13327,
-        "forks": 2195,
+        "stars": 13366,
+        "forks": 2198,
         "growth_90d": 1000,
-        "days_since_push": 3,
+        "days_since_push": 4,
         "collected": false,
-        "score": 870.3976498406271
+        "score": 870.3603394805182
       },
       {
         "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
         "html_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
         "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
-        "stars": 11056,
-        "forks": 1037,
+        "stars": 11132,
+        "forks": 1049,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 812.2863730959257
+        "score": 812.9161220906846
       },
       {
         "full_name": "HKUDS/Vibe-Trading",
         "html_url": "https://github.com/HKUDS/Vibe-Trading",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-        "stars": 9070,
-        "forks": 1867,
+        "stars": 9228,
+        "forks": 1895,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 852.926551669435
+        "score": 854.4015464598692
       },
       {
         "full_name": "holaboss-ai/holaOS",
         "html_url": "https://github.com/holaboss-ai/holaOS",
         "description": "Your super agent for work: local-first, learn your working context in mins and never forget it.",
-        "stars": 5453,
-        "forks": 333,
+        "stars": 5471,
+        "forks": 335,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 774.0171513360561
+        "score": 774.1314608871206
       },
       {
         "full_name": "debpalash/OmniVoice-Studio",
         "html_url": "https://github.com/debpalash/OmniVoice-Studio",
         "description": "The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App",
-        "stars": 5350,
-        "forks": 800,
+        "stars": 5412,
+        "forks": 808,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 797.2843495097426
+        "score": 797.7343802709106
       },
       {
         "full_name": "MinishLab/semble",
         "html_url": "https://github.com/MinishLab/semble",
         "description": "Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read",
-        "stars": 4600,
-        "forks": 192,
+        "stars": 4653,
+        "forks": 193,
         "growth_90d": 1000,
-        "days_since_push": 1,
+        "days_since_push": 0,
         "collected": false,
-        "score": 766.028522332648
+        "score": 766.3282637895071
       },
       {
         "full_name": "WenyuChiou/awesome-agentic-ai-zh",
         "html_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
         "description": "A structured, trilingual (繁中 / 简中 / English) learning roadmap for agentic AI — from LLM basics to multi-agent systems. 8 stages · 145+ curated projects · hands-on exercises. 中文 AI agent 學習地圖。",
-        "stars": 1813,
-        "forks": 210,
+        "stars": 1829,
+        "forks": 211,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 763.0863728272408
+        "score": 763.1745108973042
       },
       {
         "full_name": "thClaws/thClaws",
         "html_url": "https://github.com/thClaws/thClaws",
         "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-        "stars": 1058,
+        "stars": 1060,
         "forks": 146,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 757.5489596010748
+        "score": 757.5571538390134
       },
       {
         "full_name": "irinabuht12-oss/google-meta-ads-ga4-mcp",
@@ -209,64 +220,64 @@
         "stars": 999,
         "forks": 46,
         "growth_90d": 999,
-        "days_since_push": 54,
+        "days_since_push": 55,
         "collected": false,
-        "score": 740.8
+        "score": 740.5999999999999
       },
       {
         "full_name": "can4hou6joeng4/boss-agent-cli",
         "html_url": "https://github.com/can4hou6joeng4/boss-agent-cli",
         "description": "AI-agent-first CLI for BOSS 直聘 — 职位搜索、福利筛选、招聘者工作流、MCP 工具与 AI 简历优化",
-        "stars": 956,
-        "forks": 77,
-        "growth_90d": 956,
-        "days_since_push": 4,
+        "stars": 979,
+        "forks": 78,
+        "growth_90d": 979,
+        "days_since_push": 5,
         "collected": false,
-        "score": 722.0591193777684
+        "score": 738.1122607569249
       },
       {
         "full_name": "iFurySt/open-codex-computer-use",
         "html_url": "https://github.com/iFurySt/open-codex-computer-use",
         "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
-        "stars": 919,
+        "stars": 927,
         "forks": 100,
-        "growth_90d": 919,
-        "days_since_push": 10,
+        "growth_90d": 927,
+        "days_since_push": 11,
         "collected": false,
-        "score": 695.9378782734555
+        "score": 701.3754797621885
       },
       {
         "full_name": "nduckmink/arkon",
         "html_url": "https://github.com/nduckmink/arkon",
         "description": "Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol (MCP) for automated, secure organizational knowledge integration.",
-        "stars": 913,
-        "forks": 215,
-        "growth_90d": 913,
-        "days_since_push": 2,
+        "stars": 919,
+        "forks": 216,
+        "growth_90d": 919,
+        "days_since_push": 0,
         "collected": false,
-        "score": 699.0594619573383
+        "score": 703.7378782734554
       },
       {
         "full_name": "mukul975/cve-mcp-server",
         "html_url": "https://github.com/mukul975/cve-mcp-server",
         "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.",
-        "stars": 855,
-        "forks": 143,
-        "growth_90d": 855,
-        "days_since_push": 17,
+        "stars": 874,
+        "forks": 147,
+        "growth_90d": 874,
+        "days_since_push": 18,
         "collected": false,
-        "score": 651.5747376467715
+        "score": 664.9700805302231
       },
       {
         "full_name": "sbhooley/ainativelang",
         "html_url": "https://github.com/sbhooley/ainativelang",
         "description": "AINL helps turn AI from \"a smart conversation\" into \"a structured worker.\"  It is designed for teams building AI workflows that need multiple steps, state and memory, tool use, repeatable execution, validation and control, and lower dependence on long prompt loops.  AINL is a compact, graph-canonical, AI-native programming system for (READ: README)",
-        "stars": 737,
+        "stars": 784,
         "forks": 38,
-        "growth_90d": 737,
-        "days_since_push": 3,
+        "growth_90d": 784,
+        "days_since_push": 4,
         "collected": false,
-        "score": 565.8805636182303
+        "score": 598.8486965674525
       },
       {
         "full_name": "KeyID-AI/agent-kit",
@@ -275,284 +286,273 @@
         "stars": 697,
         "forks": 8,
         "growth_90d": 697,
-        "days_since_push": 79,
+        "days_since_push": 80,
         "collected": false,
-        "score": 520.9385542262316
+        "score": 520.7385542262316
       },
       {
         "full_name": "0xSteph/pentest-ai",
         "html_url": "https://github.com/0xSteph/pentest-ai",
         "description": "Offensive-security MCP server with 205 wrapped tools, 17 specialist agents, and 60 SPA-aware probes for OWASP Top 10. CLI + MCP, BYO LLM. No API key needed on MCP path.",
-        "stars": 563,
-        "forks": 104,
-        "growth_90d": 563,
-        "days_since_push": 3,
+        "stars": 571,
+        "forks": 106,
+        "growth_90d": 571,
+        "days_since_push": 4,
         "collected": false,
-        "score": 446.21279103983335
+        "score": 451.7739602879302
       },
       {
         "full_name": "sipyourdrink-ltd/bernstein",
         "html_url": "https://github.com/sipyourdrink-ltd/bernstein",
         "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained audit log, signed agent cards, per-artefact lineage, air-gap deploy. The orchestrator your compliance team will sign off on. https://bernstein.run",
-        "stars": 529,
-        "forks": 43,
-        "growth_90d": 529,
+        "stars": 536,
+        "forks": 44,
+        "growth_90d": 535,
         "days_since_push": 0,
         "collected": false,
-        "score": 419.69275869600784
+        "score": 423.99974285699557
+      },
+      {
+        "full_name": "zhu1090093659/deepseek-pp",
+        "html_url": "https://github.com/zhu1090093659/deepseek-pp",
+        "description": "为 DeepSeek 网页版注入类原生工具调用、MCP/Shell 工具、长期记忆、Skill、Agent式持续执行和定时自动化任务",
+        "stars": 459,
+        "forks": 49,
+        "growth_90d": 459,
+        "days_since_push": 0,
+        "collected": false,
+        "score": 370.3775783168157
       },
       {
         "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
         "html_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
         "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-        "stars": 12664,
-        "forks": 1475,
-        "growth_90d": 98,
-        "days_since_push": 0,
+        "stars": 13047,
+        "forks": 1525,
+        "growth_90d": 97,
+        "days_since_push": 1,
         "collected": false,
-        "score": 203.37605194126567
+        "score": 205.1054394803222
       },
       {
         "full_name": "rohitg00/agentmemory",
         "html_url": "https://github.com/rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "stars": 20009,
-        "forks": 1654,
-        "growth_90d": 96,
-        "days_since_push": 1,
+        "stars": 20326,
+        "forks": 1676,
+        "growth_90d": 95,
+        "days_since_push": 2,
         "collected": false,
-        "score": 212.7124708863621
+        "score": 212.98073287168032
       },
       {
         "full_name": "chrisryugj/korean-law-mcp",
         "html_url": "https://github.com/chrisryugj/korean-law-mcp",
         "description": "국가법령정보MCP v4.0 | 법제처 42개 API → 17개 MCP 도구. 법령·판례·조례 검색 + LLM 환각 방지 인용검증 + 조문 영향 그래프(impact_map) + 시점 비교 자동 diff(time_travel) + 이럴 땐 이렇게, 5단계 안내(action_plan) | 42 Korean legal APIs → 17 MCP tools",
-        "stars": 1870,
+        "stars": 1875,
         "forks": 354,
-        "growth_90d": 95,
-        "days_since_push": 0,
+        "growth_90d": 94,
+        "days_since_push": 1,
         "collected": false,
-        "score": 136.9207378750001
+        "score": 136.03232834043044
       },
       {
         "full_name": "Hmbown/CodeWhale",
         "html_url": "https://github.com/Hmbown/CodeWhale",
         "description": "DeepSeek + MiMo coding agent in terminal",
-        "stars": 36144,
-        "forks": 3098,
-        "growth_90d": 85,
+        "stars": 36323,
+        "forks": 3125,
+        "growth_90d": 83,
         "days_since_push": 0,
         "collected": false,
-        "score": 279.98048229082985
+        "score": 279.95193667004196
       },
       {
         "full_name": "Q00/ouroboros",
         "html_url": "https://github.com/Q00/ouroboros",
         "description": "Agent OS: Stop prompting. Start specifying.",
-        "stars": 4367,
-        "forks": 430,
-        "growth_90d": 63,
+        "stars": 4382,
+        "forks": 433,
+        "growth_90d": 40,
         "days_since_push": 0,
         "collected": false,
-        "score": 122.0028262969668
-      },
-      {
-        "full_name": "DeusData/codebase-memory-mcp",
-        "html_url": "https://github.com/DeusData/codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-        "stars": 2820,
-        "forks": 295,
-        "growth_90d": 37,
-        "days_since_push": 0,
-        "collected": false,
-        "score": 95.15403086155365
+        "score": 106.06771470653959
       },
       {
         "full_name": "provos/ironcurtain",
         "html_url": "https://github.com/provos/ironcurtain",
         "description": "A secure* runtime for autonomous AI agents. Policy from plain-English constitutions. (*https://ironcurtain.dev)",
-        "stars": 479,
+        "stars": 483,
         "forks": 62,
-        "growth_90d": 25,
+        "growth_90d": 20,
+        "days_since_push": 1,
+        "collected": false,
+        "score": 63.74845361644413
+      },
+      {
+        "full_name": "DeusData/codebase-memory-mcp",
+        "html_url": "https://github.com/DeusData/codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "stars": 2849,
+        "forks": 298,
+        "growth_90d": 18,
         "days_since_push": 0,
         "collected": false,
-        "score": 67.41241237375587
+        "score": 82.04844860008511
       },
       {
         "full_name": "diegosouzapw/OmniRoute",
         "html_url": "https://github.com/diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-        "stars": 5567,
-        "forks": 960,
-        "growth_90d": 18,
+        "stars": 5601,
+        "forks": 966,
+        "growth_90d": 10,
         "days_since_push": 0,
         "collected": false,
-        "score": 118.05699226602505
+        "score": 112.7834310448755
       },
       {
         "full_name": "jundot/omlx",
         "html_url": "https://github.com/jundot/omlx",
         "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-        "stars": 15526,
-        "forks": 1323,
-        "growth_90d": 6,
+        "stars": 15582,
+        "forks": 1326,
+        "growth_90d": 2,
         "days_since_push": 0,
         "collected": false,
-        "score": 132.2608755300455
+        "score": 129.6265107066798
       },
       {
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 199519,
-        "forks": 30629,
+        "stars": 201103,
+        "forks": 30859,
         "growth_90d": 0,
-        "days_since_push": 0,
+        "days_since_push": 1,
         "collected": false,
-        "score": 1604.4498643613447
+        "score": 1615.784207088894
       },
       {
         "full_name": "n8n-io/n8n",
         "html_url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 190400,
-        "forks": 58157,
+        "stars": 190536,
+        "forks": 58181,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 2980.646692250009
-      },
-      {
-        "full_name": "avelino/awesome-go",
-        "html_url": "https://github.com/avelino/awesome-go",
-        "description": "A curated list of awesome Go frameworks, libraries and software",
-        "stars": 174108,
-        "forks": 13267,
-        "growth_90d": 0,
-        "days_since_push": 1,
-        "collected": false,
-        "score": 735.558212211421
+        "score": 2981.8497932298037
       },
       {
         "full_name": "NousResearch/hermes-agent",
         "html_url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stars": 173969,
-        "forks": 29491,
+        "stars": 175129,
+        "forks": 29802,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 1546.954743634679
+        "score": 1562.5336054767379
+      },
+      {
+        "full_name": "avelino/awesome-go",
+        "html_url": "https://github.com/avelino/awesome-go",
+        "description": "A curated list of awesome Go frameworks, libraries and software",
+        "stars": 174241,
+        "forks": 13273,
+        "growth_90d": 0,
+        "days_since_push": 2,
+        "collected": false,
+        "score": 735.6615284739781
       },
       {
         "full_name": "f/prompts.chat",
         "html_url": "https://github.com/f/prompts.chat",
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-        "stars": 163089,
-        "forks": 21207,
+        "stars": 163136,
+        "forks": 21208,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 1132.474273327266
+        "score": 1132.5255247160715
       },
       {
         "full_name": "Snailclimb/JavaGuide",
         "html_url": "https://github.com/Snailclimb/JavaGuide",
         "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-        "stars": 155984,
-        "forks": 46138,
+        "stars": 156009,
+        "forks": 46136,
         "growth_90d": 0,
-        "days_since_push": 2,
+        "days_since_push": 3,
         "collected": false,
-        "score": 2378.430828372619
+        "score": 2378.131524368521
       },
       {
         "full_name": "langflow-ai/langflow",
         "html_url": "https://github.com/langflow-ai/langflow",
         "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-        "stars": 148926,
-        "forks": 9144,
+        "stars": 148966,
+        "forks": 9152,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 528.9297344112363
+        "score": 529.3309007173303
       },
       {
         "full_name": "anthropics/skills",
         "html_url": "https://github.com/anthropics/skills",
         "description": "Public repository for Agent Skills",
-        "stars": 144295,
-        "forks": 17003,
+        "stars": 144844,
+        "forks": 17058,
         "growth_90d": 0,
-        "days_since_push": 2,
+        "days_since_push": 3,
         "collected": false,
-        "score": 921.3425429227157
+        "score": 923.9090350810114
       },
       {
         "full_name": "langgenius/dify",
         "html_url": "https://github.com/langgenius/dify",
         "description": "Production-ready platform for agentic workflow development.",
-        "stars": 143229,
-        "forks": 22528,
+        "stars": 143353,
+        "forks": 22555,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 1197.9603399192363
+        "score": 1199.3140981555032
       },
       {
         "full_name": "open-webui/open-webui",
         "html_url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stars": 139317,
-        "forks": 19976,
+        "stars": 139457,
+        "forks": 19999,
         "growth_90d": 0,
-        "days_since_push": 2,
+        "days_since_push": 0,
         "collected": false,
-        "score": 1069.8400723125278
+        "score": 1071.3944343259418
       },
       {
         "full_name": "firecrawl/firecrawl",
         "html_url": "https://github.com/firecrawl/firecrawl",
         "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-        "stars": 126612,
-        "forks": 7587,
+        "stars": 126995,
+        "forks": 7595,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 450.374782991917
+        "score": 450.7879004217418
       },
       {
         "full_name": "ripienaar/free-for-dev",
         "html_url": "https://github.com/ripienaar/free-for-dev",
         "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-        "stars": 122806,
-        "forks": 12891,
+        "stars": 122848,
+        "forks": 12900,
         "growth_90d": 0,
         "days_since_push": 1,
         "collected": false,
-        "score": 715.242231222997
-      },
-      {
-        "full_name": "Shubhamsaboo/awesome-llm-apps",
-        "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-        "stars": 112298,
-        "forks": 16664,
-        "growth_90d": 0,
-        "days_since_push": 8,
-        "collected": false,
-        "score": 902.103758889737
-      },
-      {
-        "full_name": "msitarzewski/agency-agents",
-        "html_url": "https://github.com/msitarzewski/agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stars": 106233,
-        "forks": 17508,
-        "growth_90d": 0,
-        "days_since_push": 49,
-        "collected": false,
-        "score": 935.8626353415802
+        "score": 715.6937162564109
       }
     ],
     "scored": [
@@ -560,386 +560,397 @@
         "full_name": "ChatGPTNextWeb/NextChat",
         "html_url": "https://github.com/ChatGPTNextWeb/NextChat",
         "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
-        "stars": 88135,
-        "forks": 59680,
+        "stars": 88150,
+        "forks": 59674,
         "growth_90d": 0,
-        "days_since_push": 16,
+        "days_since_push": 17,
         "collected": false,
-        "score": 3050.251533364241
+        "score": 3049.752272433741
       },
       {
         "full_name": "n8n-io/n8n",
         "html_url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "stars": 190400,
-        "forks": 58157,
+        "stars": 190536,
+        "forks": 58181,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 2980.646692250009
+        "score": 2981.8497932298037
       },
       {
         "full_name": "Snailclimb/JavaGuide",
         "html_url": "https://github.com/Snailclimb/JavaGuide",
         "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-        "stars": 155984,
-        "forks": 46138,
+        "stars": 156009,
+        "forks": 46136,
         "growth_90d": 0,
-        "days_since_push": 2,
+        "days_since_push": 3,
         "collected": false,
-        "score": 2378.430828372619
+        "score": 2378.131524368521
       },
       {
         "full_name": "affaan-m/ECC",
         "html_url": "https://github.com/affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "stars": 199519,
-        "forks": 30629,
+        "stars": 201103,
+        "forks": 30859,
         "growth_90d": 0,
-        "days_since_push": 0,
+        "days_since_push": 1,
         "collected": false,
-        "score": 1604.4498643613447
-      },
-      {
-        "full_name": "garrytan/gstack",
-        "html_url": "https://github.com/garrytan/gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "stars": 104866,
-        "forks": 15642,
-        "growth_90d": 1000,
-        "days_since_push": 0,
-        "collected": false,
-        "score": 1552.3063884403102
+        "score": 1615.784207088894
       },
       {
         "full_name": "NousResearch/hermes-agent",
         "html_url": "https://github.com/NousResearch/hermes-agent",
         "description": "The agent that grows with you",
-        "stars": 173969,
-        "forks": 29491,
+        "stars": 175129,
+        "forks": 29802,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 1546.954743634679
+        "score": 1562.5336054767379
+      },
+      {
+        "full_name": "garrytan/gstack",
+        "html_url": "https://github.com/garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "stars": 105272,
+        "forks": 15693,
+        "growth_90d": 1000,
+        "days_since_push": 0,
+        "collected": false,
+        "score": 1554.8731699934697
       },
       {
         "full_name": "sansan0/TrendRadar",
         "html_url": "https://github.com/sansan0/TrendRadar",
         "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-        "stars": 58609,
-        "forks": 24466,
+        "stars": 58656,
+        "forks": 24467,
         "growth_90d": 0,
-        "days_since_push": 3,
+        "days_since_push": 4,
         "collected": false,
-        "score": 1290.379717213816
+        "score": 1290.2331984731206
       },
       {
         "full_name": "langgenius/dify",
         "html_url": "https://github.com/langgenius/dify",
         "description": "Production-ready platform for agentic workflow development.",
-        "stars": 143229,
-        "forks": 22528,
+        "stars": 143353,
+        "forks": 22555,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 1197.9603399192363
+        "score": 1199.3140981555032
       },
       {
         "full_name": "f/prompts.chat",
         "html_url": "https://github.com/f/prompts.chat",
         "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-        "stars": 163089,
-        "forks": 21207,
+        "stars": 163136,
+        "forks": 21208,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 1132.474273327266
+        "score": 1132.5255247160715
       },
       {
         "full_name": "MemPalace/mempalace",
         "html_url": "https://github.com/MemPalace/mempalace",
         "description": "The best-benchmarked open-source AI memory system. And it's free.",
-        "stars": 53102,
+        "stars": 53195,
         "forks": 7016,
         "growth_90d": 1000,
-        "days_since_push": 0,
+        "days_since_push": 1,
         "collected": false,
-        "score": 1118.0511905679978
+        "score": 1117.8587897734697
       },
       {
         "full_name": "nexu-io/open-design",
         "html_url": "https://github.com/nexu-io/open-design",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-        "stars": 56061,
-        "forks": 6340,
+        "stars": 56661,
+        "forks": 6399,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 1084.4866858706448
+        "score": 1087.4829189975792
       },
       {
         "full_name": "open-webui/open-webui",
         "html_url": "https://github.com/open-webui/open-webui",
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "stars": 139317,
-        "forks": 19976,
+        "stars": 139457,
+        "forks": 19999,
         "growth_90d": 0,
-        "days_since_push": 2,
+        "days_since_push": 0,
         "collected": false,
-        "score": 1069.8400723125278
+        "score": 1071.3944343259418
       },
       {
         "full_name": "safishamsi/graphify",
         "html_url": "https://github.com/safishamsi/graphify",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-        "stars": 56905,
-        "forks": 5955,
+        "stars": 57551,
+        "forks": 6010,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 1065.3015805953241
+        "score": 1068.1006042047443
       },
       {
         "full_name": "rohitg00/ai-engineering-from-scratch",
         "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
-        "stars": 25288,
-        "forks": 4099,
+        "stars": 26204,
+        "forks": 4254,
         "growth_90d": 1000,
-        "days_since_push": 3,
+        "days_since_push": 4,
         "collected": false,
-        "score": 968.3793165642751
+        "score": 976.0838416403863
       },
       {
         "full_name": "JuliusBrussee/caveman",
         "html_url": "https://github.com/JuliusBrussee/caveman",
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "stars": 66720,
-        "forks": 3764,
+        "stars": 67051,
+        "forks": 3782,
         "growth_90d": 1000,
-        "days_since_push": 10,
+        "days_since_push": 11,
         "collected": false,
-        "score": 954.4426254679076
+        "score": 955.1641173634138
       },
       {
         "full_name": "msitarzewski/agency-agents",
         "html_url": "https://github.com/msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "stars": 106233,
-        "forks": 17508,
+        "stars": 106513,
+        "forks": 17564,
         "growth_90d": 0,
-        "days_since_push": 49,
+        "days_since_push": 50,
         "collected": false,
-        "score": 935.8626353415802
+        "score": 938.474066943771
       },
       {
         "full_name": "anthropics/skills",
         "html_url": "https://github.com/anthropics/skills",
         "description": "Public repository for Agent Skills",
-        "stars": 144295,
-        "forks": 17003,
+        "stars": 144844,
+        "forks": 17058,
         "growth_90d": 0,
-        "days_since_push": 2,
+        "days_since_push": 3,
         "collected": false,
-        "score": 921.3425429227157
+        "score": 923.9090350810114
       },
       {
         "full_name": "garrytan/gbrain",
         "html_url": "https://github.com/garrytan/gbrain",
         "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-        "stars": 19958,
-        "forks": 2832,
+        "stars": 20213,
+        "forks": 2872,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 904.6013877816571
+        "score": 906.6565226136477
       },
       {
         "full_name": "Shubhamsaboo/awesome-llm-apps",
         "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-        "stars": 112298,
-        "forks": 16664,
+        "stars": 112421,
+        "forks": 16682,
         "growth_90d": 0,
-        "days_since_push": 8,
+        "days_since_push": 0,
         "collected": false,
-        "score": 902.103758889737
+        "score": 904.6085130717323
       },
       {
         "full_name": "HKUDS/OpenHarness",
         "html_url": "https://github.com/HKUDS/OpenHarness",
         "description": "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\"",
-        "stars": 13327,
-        "forks": 2195,
+        "stars": 13366,
+        "forks": 2198,
         "growth_90d": 1000,
-        "days_since_push": 3,
+        "days_since_push": 4,
         "collected": false,
-        "score": 870.3976498406271
+        "score": 870.3603394805182
       },
       {
         "full_name": "heygen-com/hyperframes",
         "html_url": "https://github.com/heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
-        "stars": 22626,
-        "forks": 2107,
+        "stars": 22959,
+        "forks": 2133,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 868.8962697685295
+        "score": 870.2597188372594
       },
       {
         "full_name": "jeecgboot/JeecgBoot",
         "html_url": "https://github.com/jeecgboot/JeecgBoot",
         "description": "AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。",
-        "stars": 46527,
-        "forks": 16022,
+        "stars": 46540,
+        "forks": 16027,
         "growth_90d": 0,
-        "days_since_push": 7,
+        "days_since_push": 8,
         "collected": false,
-        "score": 866.3771438484292
+        "score": 866.4283571048952
       },
       {
         "full_name": "tirth8205/code-review-graph",
         "html_url": "https://github.com/tirth8205/code-review-graph",
         "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "stars": 17732,
-        "forks": 1904,
+        "stars": 17784,
+        "forks": 1914,
         "growth_90d": 1000,
-        "days_since_push": 5,
+        "days_since_push": 6,
         "collected": false,
-        "score": 856.6878221406855
+        "score": 857.000538695218
       },
       {
         "full_name": "HKUDS/Vibe-Trading",
         "html_url": "https://github.com/HKUDS/Vibe-Trading",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-        "stars": 9070,
-        "forks": 1867,
+        "stars": 9228,
+        "forks": 1895,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 852.926551669435
+        "score": 854.4015464598692
       },
       {
         "full_name": "josephmisiti/awesome-machine-learning",
         "html_url": "https://github.com/josephmisiti/awesome-machine-learning",
         "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
-        "stars": 72632,
-        "forks": 15475,
+        "stars": 72643,
+        "forks": 15477,
         "growth_90d": 0,
-        "days_since_push": 18,
+        "days_since_push": 19,
         "collected": false,
-        "score": 838.7613398243124
+        "score": 838.6619974974899
       },
       {
         "full_name": "lobehub/lobehub",
         "html_url": "https://github.com/lobehub/lobehub",
         "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-        "stars": 78000,
-        "forks": 15340,
+        "stars": 78044,
+        "forks": 15353,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 835.9210017053276
+        "score": 836.5734508495173
       },
       {
         "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
         "html_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
         "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
-        "stars": 11056,
-        "forks": 1037,
+        "stars": 11132,
+        "forks": 1049,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 812.2863730959257
+        "score": 812.9161220906846
+      },
+      {
+        "full_name": "esengine/DeepSeek-Reasonix",
+        "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+        "stars": 15565,
+        "forks": 914,
+        "growth_90d": 1000,
+        "days_since_push": 0,
+        "collected": false,
+        "score": 807.6217702611276
       },
       {
         "full_name": "h4ckf0r0day/obscura",
         "html_url": "https://github.com/h4ckf0r0day/obscura",
         "description": "The headless browser for AI agents and web scraping",
-        "stars": 13910,
-        "forks": 905,
+        "stars": 14025,
+        "forks": 914,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 806.6835835061547
+        "score": 807.1693383456277
       },
       {
         "full_name": "debpalash/OmniVoice-Studio",
         "html_url": "https://github.com/debpalash/OmniVoice-Studio",
         "description": "The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App",
-        "stars": 5350,
-        "forks": 800,
+        "stars": 5412,
+        "forks": 808,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 797.2843495097426
+        "score": 797.7343802709106
       },
       {
         "full_name": "holaboss-ai/holaOS",
         "html_url": "https://github.com/holaboss-ai/holaOS",
         "description": "Your super agent for work: local-first, learn your working context in mins and never forget it.",
-        "stars": 5453,
-        "forks": 333,
+        "stars": 5471,
+        "forks": 335,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 774.0171513360561
+        "score": 774.1314608871206
       },
       {
         "full_name": "google-gemini/gemini-cli",
         "html_url": "https://github.com/google-gemini/gemini-cli",
         "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-        "stars": 104768,
-        "forks": 13955,
+        "stars": 104809,
+        "forks": 13965,
         "growth_90d": 0,
-        "days_since_push": 1,
+        "days_since_push": 2,
         "collected": false,
-        "score": 767.752327986731
+        "score": 768.0540272098388
       },
       {
         "full_name": "MinishLab/semble",
         "html_url": "https://github.com/MinishLab/semble",
         "description": "Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read",
-        "stars": 4600,
-        "forks": 192,
+        "stars": 4653,
+        "forks": 193,
         "growth_90d": 1000,
-        "days_since_push": 1,
+        "days_since_push": 0,
         "collected": false,
-        "score": 766.028522332648
+        "score": 766.3282637895071
       },
       {
         "full_name": "WenyuChiou/awesome-agentic-ai-zh",
         "html_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
         "description": "A structured, trilingual (繁中 / 简中 / English) learning roadmap for agentic AI — from LLM basics to multi-agent systems. 8 stages · 145+ curated projects · hands-on exercises. 中文 AI agent 學習地圖。",
-        "stars": 1813,
-        "forks": 210,
+        "stars": 1829,
+        "forks": 211,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 763.0863728272408
+        "score": 763.1745108973042
       },
       {
         "full_name": "thClaws/thClaws",
         "html_url": "https://github.com/thClaws/thClaws",
         "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-        "stars": 1058,
+        "stars": 1060,
         "forks": 146,
         "growth_90d": 1000,
         "days_since_push": 0,
         "collected": false,
-        "score": 757.5489596010748
+        "score": 757.5571538390134
       },
       {
         "full_name": "xtekky/gpt4free",
         "html_url": "https://github.com/xtekky/gpt4free",
         "description": "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3",
-        "stars": 66280,
-        "forks": 13584,
+        "stars": 66285,
+        "forks": 13583,
         "growth_90d": 0,
-        "days_since_push": 1,
+        "days_since_push": 2,
         "collected": false,
-        "score": 747.2138905211915
+        "score": 746.9642181249558
       },
       {
         "full_name": "irinabuht12-oss/google-meta-ads-ga4-mcp",
@@ -948,163 +959,152 @@
         "stars": 999,
         "forks": 46,
         "growth_90d": 999,
-        "days_since_push": 54,
+        "days_since_push": 55,
         "collected": false,
-        "score": 740.8
-      },
-      {
-        "full_name": "avelino/awesome-go",
-        "html_url": "https://github.com/avelino/awesome-go",
-        "description": "A curated list of awesome Go frameworks, libraries and software",
-        "stars": 174108,
-        "forks": 13267,
-        "growth_90d": 0,
-        "days_since_push": 1,
-        "collected": false,
-        "score": 735.558212211421
-      },
-      {
-        "full_name": "alibaba/nacos",
-        "html_url": "https://github.com/alibaba/nacos",
-        "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
-        "stars": 32986,
-        "forks": 13283,
-        "growth_90d": 0,
-        "days_since_push": 1,
-        "collected": false,
-        "score": 729.1334282046536
+        "score": 740.5999999999999
       },
       {
         "full_name": "can4hou6joeng4/boss-agent-cli",
         "html_url": "https://github.com/can4hou6joeng4/boss-agent-cli",
         "description": "AI-agent-first CLI for BOSS 直聘 — 职位搜索、福利筛选、招聘者工作流、MCP 工具与 AI 简历优化",
-        "stars": 956,
-        "forks": 77,
-        "growth_90d": 956,
-        "days_since_push": 4,
+        "stars": 979,
+        "forks": 78,
+        "growth_90d": 979,
+        "days_since_push": 5,
         "collected": false,
-        "score": 722.0591193777684
+        "score": 738.1122607569249
+      },
+      {
+        "full_name": "avelino/awesome-go",
+        "html_url": "https://github.com/avelino/awesome-go",
+        "description": "A curated list of awesome Go frameworks, libraries and software",
+        "stars": 174241,
+        "forks": 13273,
+        "growth_90d": 0,
+        "days_since_push": 2,
+        "collected": false,
+        "score": 735.6615284739781
+      },
+      {
+        "full_name": "alibaba/nacos",
+        "html_url": "https://github.com/alibaba/nacos",
+        "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+        "stars": 32993,
+        "forks": 13282,
+        "growth_90d": 0,
+        "days_since_push": 2,
+        "collected": false,
+        "score": 728.8843497006553
       },
       {
         "full_name": "ripienaar/free-for-dev",
         "html_url": "https://github.com/ripienaar/free-for-dev",
         "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-        "stars": 122806,
-        "forks": 12891,
+        "stars": 122848,
+        "forks": 12900,
         "growth_90d": 0,
         "days_since_push": 1,
         "collected": false,
-        "score": 715.242231222997
+        "score": 715.6937162564109
       },
       {
         "full_name": "nduckmink/arkon",
         "html_url": "https://github.com/nduckmink/arkon",
         "description": "Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol (MCP) for automated, secure organizational knowledge integration.",
-        "stars": 913,
-        "forks": 215,
-        "growth_90d": 913,
-        "days_since_push": 2,
+        "stars": 919,
+        "forks": 216,
+        "growth_90d": 919,
+        "days_since_push": 0,
         "collected": false,
-        "score": 699.0594619573383
+        "score": 703.7378782734554
       },
       {
         "full_name": "iFurySt/open-codex-computer-use",
         "html_url": "https://github.com/iFurySt/open-codex-computer-use",
         "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
-        "stars": 919,
+        "stars": 927,
         "forks": 100,
-        "growth_90d": 919,
-        "days_since_push": 10,
+        "growth_90d": 927,
+        "days_since_push": 11,
         "collected": false,
-        "score": 695.9378782734555
+        "score": 701.3754797621885
       },
       {
         "full_name": "bradtraversy/design-resources-for-developers",
         "html_url": "https://github.com/bradtraversy/design-resources-for-developers",
         "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
-        "stars": 65889,
-        "forks": 12058,
+        "stars": 65907,
+        "forks": 12063,
         "growth_90d": 0,
-        "days_since_push": 6,
+        "days_since_push": 7,
         "collected": false,
-        "score": 669.8881950754753
+        "score": 669.9393813303082
       },
       {
         "full_name": "mukul975/cve-mcp-server",
         "html_url": "https://github.com/mukul975/cve-mcp-server",
         "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.",
-        "stars": 855,
-        "forks": 143,
-        "growth_90d": 855,
-        "days_since_push": 17,
+        "stars": 874,
+        "forks": 147,
+        "growth_90d": 874,
+        "days_since_push": 18,
         "collected": false,
-        "score": 651.5747376467715
+        "score": 664.9700805302231
       },
       {
         "full_name": "spmallick/learnopencv",
         "html_url": "https://github.com/spmallick/learnopencv",
         "description": "Learn OpenCV  : C++ and Python Examples",
-        "stars": 22944,
-        "forks": 11695,
+        "stars": 22948,
+        "forks": 11694,
         "growth_90d": 0,
-        "days_since_push": 4,
+        "days_since_push": 5,
         "collected": false,
-        "score": 647.5568806203067
+        "score": 647.3076376595416
       },
       {
         "full_name": "punkpeye/awesome-mcp-servers",
         "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
         "description": "A collection of MCP servers.",
-        "stars": 88214,
-        "forks": 10931,
+        "stars": 88270,
+        "forks": 10971,
         "growth_90d": 0,
-        "days_since_push": 4,
+        "days_since_push": 5,
         "collected": false,
-        "score": 615.2054243845772
+        "score": 617.0081804662838
       },
       {
         "full_name": "modelcontextprotocol/servers",
         "html_url": "https://github.com/modelcontextprotocol/servers",
         "description": "Model Context Protocol Servers",
-        "stars": 86495,
-        "forks": 10872,
+        "stars": 86554,
+        "forks": 10884,
         "growth_90d": 0,
-        "days_since_push": 0,
+        "days_since_push": 1,
         "collected": false,
-        "score": 612.9699602401863
-      },
-      {
-        "full_name": "zhayujie/CowAgent",
-        "html_url": "https://github.com/zhayujie/CowAgent",
-        "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install (formerly chatgpt-on-wechat).",
-        "stars": 44971,
-        "forks": 10156,
-        "growth_90d": 0,
-        "days_since_push": 0,
-        "collected": false,
-        "score": 574.3294220199199
+        "score": 613.3729216071158
       },
       {
         "full_name": "sbhooley/ainativelang",
         "html_url": "https://github.com/sbhooley/ainativelang",
         "description": "AINL helps turn AI from \"a smart conversation\" into \"a structured worker.\"  It is designed for teams building AI workflows that need multiple steps, state and memory, tool use, repeatable execution, validation and control, and lower dependence on long prompt loops.  AINL is a compact, graph-canonical, AI-native programming system for (READ: README)",
-        "stars": 737,
+        "stars": 784,
         "forks": 38,
-        "growth_90d": 737,
-        "days_since_push": 3,
+        "growth_90d": 784,
+        "days_since_push": 4,
         "collected": false,
-        "score": 565.8805636182303
+        "score": 598.8486965674525
       },
       {
-        "full_name": "bytedance/deer-flow",
-        "html_url": "https://github.com/bytedance/deer-flow",
-        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-        "stars": 70045,
-        "forks": 9456,
+        "full_name": "zhayujie/CowAgent",
+        "html_url": "https://github.com/zhayujie/CowAgent",
+        "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install.",
+        "stars": 44999,
+        "forks": 10159,
         "growth_90d": 0,
         "days_since_push": 0,
         "collected": false,
-        "score": 541.2538333979984
+        "score": 574.4821251377534
       }
     ]
   }
